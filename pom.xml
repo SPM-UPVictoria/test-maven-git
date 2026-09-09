@@ -43,3 +43,5 @@
 // git init
 // touch .gitignore
 // git add .
+// touch README.md
+// git add README.md
